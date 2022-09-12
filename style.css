@@ -1,0 +1,63 @@
+body {
+    background-color: aqua;
+    justify-content: center;
+}
+
+.grid {
+    border: 2px solid black;
+    border-radius:2px;
+    height: 500px;
+    width: 600px;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: white;
+}
+
+.grid div{
+    height: 80px;
+    width: 80px;
+    
+    flex-wrap:wrap;
+
+}
+
+.player-one {
+    background-color:greenyellow;
+    border-radius:20px;
+
+}
+
+.player-two {
+    background-color: purple;
+    border-radius:20px; 
+}
+button1 {
+    border-radius: 20px;
+    background-color:yellow;
+    box-shadow: 0 9px #999;
+    cursor: pointer;
+    padding: 15px 25px; 
+}
+button2 {
+    border-radius: 20px;
+    background-color: orange;
+    box-shadow: 0 9px #999;
+    cursor: pointer;
+    padding: 15px 25px; 
+}
+.button:hover {
+    background-color:crimson;
+}
+
+.button1:active {
+    background-color:crimson;
+    box-shadow: 0 5px #666;
+    transform:translateY(4px);
+}
+
+.button2:active {
+    background-color:crimson;
+    box-shadow: 0 5px #666;
+    transform:translateY(4px);
+}
