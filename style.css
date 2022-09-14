@@ -6,7 +6,7 @@ body {
     height: 100%;
 }
 
-.grid {
+#board {
     border: 10px solid navy;
     border-radius:2px;
     height: 540px;
@@ -17,7 +17,7 @@ body {
     margin: 0 auto;
 
 }
-.grid div {
+.cell {
     height: 70px;
     width: 70px;
     margin: 5px;
@@ -30,13 +30,13 @@ body {
 
 .player-one {
     background-color:greenyellow;
-    border-radius:20px;
+    border-radius:70px;
 
 }
 
 .player-two {
     background-color: purple;
-    border-radius:20px; 
+    border-radius:70px; 
 }
 button1 {
     border-radius: 20px;
