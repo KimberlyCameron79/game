@@ -1,8 +1,8 @@
 # game
 CONNECT 4 
 
-[Connect4Frame.pdf](https://github.com/KimberlyCameron79/game/files/9600261/Connect4Frame.pdf)
 
+wireframe.jpg (1187×561)
 
 This is a two player strategic game where each player has a color and successively drops the chip in a column to strategically get four chips in a line to win. The players have an opportunity to win the four chip alignment in three different ways, horizontally, vertically, and diagonally.
 
