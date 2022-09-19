@@ -53,5 +53,7 @@ Const [rowIndex, colIndex] = getCellLocation (cell);
 
 Const tCell = tCells[colIndex];
 tCell.classList.add(purpleIsNext ? ‘ purple’ :  ‘greenyellow’);
+
 };
 
+![Connect4Screen](https://user-images.githubusercontent.com/110206975/191031589-68266db3-491b-4f80-abd3-ee6bdc0b6a31.jpg)
