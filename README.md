@@ -1,6 +1,6 @@
 # game
 CONNECT 4 
-
+https://kimberlycameron79.github.io/game/
 
 ![wireframe](https://user-images.githubusercontent.com/110206975/191055060-d2edb2c7-20d5-4c47-b808-3e830f6ca320.jpg)
 
