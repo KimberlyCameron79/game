@@ -2,7 +2,8 @@
 CONNECT 4 
 
 
-wireframe.jpg (1187×561)
+![wireframe](https://user-images.githubusercontent.com/110206975/191055060-d2edb2c7-20d5-4c47-b808-3e830f6ca320.jpg)
+
 
 This is a two player strategic game where each player has a color and successively drops the chip in a column to strategically get four chips in a line to win. The players have an opportunity to win the four chip alignment in three different ways, horizontally, vertically, and diagonally.
 
